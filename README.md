@@ -1,5 +1,5 @@
 # SPOJ-STPAR-STREET-PARADE
-SPOJ STRPAR Accepted Solution
+SPOJ STPAR Accepted Solution
 
 problem link: https://www.spoj.com/problems/STPAR/
 language: c++14
