@@ -1,0 +1,2 @@
+# SPOJ-STPAR-STREET-PARADE
+SPOJ accepted STRPAR Solution
