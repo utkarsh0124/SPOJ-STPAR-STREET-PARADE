@@ -1,2 +1,7 @@
 # SPOJ-STPAR-STREET-PARADE
-SPOJ accepted STRPAR Solution
+SPOJ STRPAR Accepted Solution
+
+problem link: https://www.spoj.com/problems/STPAR/
+language: c++14
+time compl. O(N)
+space compl. O(N)
